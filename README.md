@@ -1,3 +1,4 @@
+[![Build Status](https://evenchou3112.visualstudio.com/MVC%20Tester/_apis/build/status%2FYvonneZhou3112.pipelines-dotnet-core?branchName=master)](https://evenchou3112.visualstudio.com/MVC%20Tester/_build/latest?definitionId=2&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
